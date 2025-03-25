@@ -17,7 +17,7 @@
 </ul>
 
 <p style="color: #333;">🔒 Here’s a little something to represent my passion for cybersecurity:</p>
-<p><img src="https://www.pngall.com/wp-content/uploads/3/Anonymous-Hacker-Transparent.png" alt="Cybersecurity GIF" style="max-width: 50%; height: auto;"></p>
+<p><img src="https://www.pngall.com/wp-content/uploads/3/Anonymous-Hacker-Transparent.png" alt="Cybersecurity GIF" style="max-width: 25%; height: auto;"></p>
 
 <p style="color: #333;">📫 Let's connect! You can find me on:</p>
 <ul style="color: #333;">

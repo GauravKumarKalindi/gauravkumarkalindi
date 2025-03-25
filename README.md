@@ -1,4 +1,5 @@
 <h1>👋 Welcome to My GitHub Profile!</h1>
+<h3>GAURAV KUMAR KALINDI</h3>
 
 <p>My name is <strong>Gaurav Kumar Kalindi</strong>, a passionate technology enthusiast and aspiring professional in the field of <strong>Cybersecurity</strong> and <strong>Electrical Engineering</strong>.</p>
 
@@ -17,7 +18,7 @@
 </ul>
 
 <p>🔒 Here’s a little something to represent my passion for cybersecurity:</p>
-<p>![Cybersecurity GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)</p>
+<p>![Cybersecurity GIF](https://www.bing.com/images/search?view=detailV2&ccid=vWVetLNE&id=5D2D9F853671170BF461F5DF127413BBDF36B478&thid=OIP.vWVetLNE5Tx2dOCBpErptgHaFy&mediaurl=https%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f3%2fAnonymous-Hacker-Transparent.png&exph=684&expw=874&q=hacker+png&simid=608049864155207149&FORM=IRPRST&ck=15A2AF8E774E793FC50A8022A2E5E6C4&selectedIndex=1&itb=1)</p>
 
 <p>📫 Let's connect! You can find me on:</p>
 <ul>

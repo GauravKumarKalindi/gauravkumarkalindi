@@ -1,29 +1,49 @@
-<h1 style="color: #4CAF50;">👋 Welcome to My GitHub Profile!</h1>
+<!-- Gaurav Kumar Kalindi - GitHub Profile README -->
+<h1 align="center">Hey there, I'm Gaurav Kumar Kalindi 👨‍💻</h1>
+<p align="center">A passionate Bug Bounty Hunter & Cybersecurity Enthusiast!</p>
 
-<p style="color: #333;">My name is <strong style="color: #2196F3;">Gaurav Kumar Kalindi</strong>, a passionate technology enthusiast and aspiring professional in the field of <strong style="color: #FF5722;">Cybersecurity</strong> and <strong style="color: #FF5722;">Electrical Engineering</strong>.</p>
+<!-- About Me -->
+<h2>🚀 About Me</h2>
+<p>
+    I am an avid bug hunter exploring the depths of cybersecurity and ethical hacking. 
+    My journey began with a diploma in Electrical & Electronics Engineering from Tata Steel Technical Institute, 
+    but my passion led me to cybersecurity instead!
+</p>
+<p>
+    I have reported and successfully bounted bugs in platforms like <strong>TCM in Play Limited, Edusquare, etc.</strong>. 
+    I’m still in the learning phase, constantly evolving with the latest security trends.
+</p>
 
-<p style="color: #333;">🎂 I was born on <strong style="color: #FF9800;">November 9, 2005</strong>, a lucky individual who made an early entrance into the world at just 7 months!</p>
-
-<p style="color: #333;">🏡 Currently, I reside in the vibrant city of <strong style="color: #9C27B0;">Jamshedpur, Jharkhand, India</strong>, where I am constantly inspired by the technological advancements around me.</p>
-
-<p style="color: #333;">🎓 I completed my schooling at <strong style="color: #3F51B5;">S.D.S.M. School for Excellence, Jamshedpur</strong>, where I developed a strong foundation in science and mathematics. I am now pursuing a Diploma in <strong style="color: #3F51B5;">Electrical and Electronics Engineering</strong> at <strong style="color: #3F51B5;">Tata Steel Technical Institute</strong>, where I am honing my skills in both theoretical and practical aspects of the field.</p>
-
-<p style="color: #333;">💻 My interests and hobbies include:</p>
-<ul style="color: #333;">
-    <li>🔍 Diving deep into the world of <strong style="color: #FF5722;">ethical hacking</strong> to understand vulnerabilities and protect systems.</li>
-    <li>🛠️ Developing scripts and tools to automate tasks and enhance productivity.</li>
-    <li>📚 Staying updated with the latest trends in <strong style="color: #FF5722;">cybersecurity</strong> and technology.</li>
-    <li>🎮 Engaging in coding challenges and hackathons to sharpen my skills.</li>
+<!-- Education & Journey -->
+<h2>🎓 Education & Professional Journey</h2>
+<ul>
+    <li>📚 Completed my schooling at <strong>S.D.S.M. School for Excellence</strong></li>
+    <li>⚡ Diploma in Electrical & Electronics from <strong>Tata Steel Technical Institute</strong></li>
+    <li>🏥 Previously placed in <strong>Zeiss Medical System for Trinayani Medical System</strong>, but dropped it after a month to pursue my true passion!</li>
+    <li>💼 Currently working at <strong>Dr. Reddy's</strong></li>
 </ul>
 
-<p style="color: #333;">🔒 Here’s a little something to represent my passion for cybersecurity:</p>
+<!-- My Work & Contributions -->
+<h2>🔍 Bug Bounty & Projects</h2>
+<p>
+    I have developed numerous cybersecurity tools and contributed by finding vulnerabilities in various organizations.
+    I aim to contribute more and grow within the ethical hacking community!
+</p>
 
+<!-- Social & Contact Links -->
+<h2>🌎 Connect With Me</h2>
+<p>
+    🔗 <a href="https://www.instagram.com/devloper_gaurave" target="_blank">Instagram</a> |
+    🔗 <a href="https://github.com/GauravKumarKalindi" target="_blank">GitHub</a> |
+    🔗 <a href="https://www.linkedin.com/in/gauravkumarkalindi" target="_blank">LinkedIn</a> |
+    🔗 <a href="https://www.kaggle.com/gauravkumarkalindi" target="_blank">Kaggle</a>
+</p>
 
-<p style="color: #333;">📫 Let's connect! You can find me on:</p>
-<ul style="color: #333;">
-    <li>🔗 <a href="https://www.linkedin.com/in/gauravkumarkalindi/" target="_blank" style="color: #2196F3;">LinkedIn</a></li>
-    <li>📸 <a href="https://www.instagram.com/devloper_gaurav/" target="_blank" style="color: #E91E63;">Instagram</a></li>
-    <li>🐙 <a href="https://github.com/gauravkumarkalindi" target="_blank" style="color: #4CAF50;">GitHub</a></li>
-</ul>
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
-<p style="color: #333;">🚀 I am excited to collaborate, learn, and share knowledge with fellow enthusiasts in the tech community. Let's make the digital world a safer place together!</p>
+<h2>💡 Keep Learning, Keep Growing!</h2>
+<p>Cybersecurity is a vast ocean, and I am always ready to dive deeper!</p>

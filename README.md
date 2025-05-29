@@ -33,7 +33,7 @@
 <!-- Social & Contact Links -->
 <h2>🌎 Connect With Me</h2>
 <p>
-    🔗 <a href="https://www.instagram.com/devloper_gaurave" target="_blank">Instagram</a> |
+    🔗 <a href="https://www.instagram.com/devloper_gaurav" target="_blank">Instagram</a> |
     🔗 <a href="https://github.com/GauravKumarKalindi" target="_blank">GitHub</a> |
     🔗 <a href="https://www.linkedin.com/in/gauravkumarkalindi" target="_blank">LinkedIn</a> |
     🔗 <a href="https://www.kaggle.com/gauravkumarkalindi" target="_blank">Kaggle</a>

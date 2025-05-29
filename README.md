@@ -42,7 +42,7 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=gauravkumarkalindi&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <h2>💡 Keep Learning, Keep Growing!</h2>

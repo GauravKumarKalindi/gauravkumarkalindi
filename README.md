@@ -20,7 +20,6 @@
     <li>📚 Completed my schooling at <strong>S.D.S.M. School for Excellence</strong></li>
     <li>⚡ Diploma in Electrical & Electronics from <strong>Tata Steel Technical Institute</strong></li>
     <li>🏥 Previously placed in <strong>Zeiss Medical System for Trinayani Medical System</strong>, but dropped it after a month to pursue my true passion!</li>
-    <li>💼 Currently working at <strong>Dr. Reddy's</strong></li>
 </ul>
 
 <!-- My Work & Contributions -->

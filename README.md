@@ -17,7 +17,7 @@
 <!-- Education & Journey -->
 <h2>🎓 Education & Professional Journey</h2>
 <ul>
-    <li>🎂 Took birth at November 9th 2005</strong></li>
+    <li>🎂 Took birth at <strong>November 9th 2005</strong></li>
     <li>📚 Completed my schooling at <strong>S.D.S.M. School for Excellence</strong></li>
     <li>⚡ Diploma in Electrical & Electronics from <strong>Tata Steel Technical Institute</strong></li>
     <li>🏥 Previously placed in <strong>Zeiss Medical System for Trinayani Medical System</strong>, but dropped it after a month to pursue my true passion!</li>
